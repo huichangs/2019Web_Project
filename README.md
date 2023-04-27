@@ -1,6 +1,8 @@
 # fishing guide
 
 1. Create a national map image file to display fishing pointers
+
+
 ![image](https://user-images.githubusercontent.com/102274136/234823920-f5d1b634-f999-4d97-8ad7-067f0399f53b.png)
 ![image](https://user-images.githubusercontent.com/102274136/234824849-6b0e37cb-905d-4b55-b238-f875d24d961c.png)
 ![image](https://user-images.githubusercontent.com/102274136/234824868-9a2b5bd8-f03d-43bd-9645-a74c9911e39f.png)
@@ -11,6 +13,7 @@
   condition 1 : Make all fishing grounds information available if all or all of the map filters are selected.
  
   condition 2 : When you select a map filter, the selected place will be colored and the filtered fishing area information will be displayed accordingly. (To deselect it, click the colored area to deselect it and make the color transparent).
+  
   
   ![image](https://user-images.githubusercontent.com/102274136/234824754-4113df8b-64b7-4e39-b097-53e0196eb855.png)
   ![image](https://user-images.githubusercontent.com/102274136/234824784-d62e9abc-d5d8-40e2-a60f-2744672c801e.png)
