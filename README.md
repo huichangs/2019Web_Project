@@ -21,7 +21,7 @@
 
 
   
-3. Input ampledata
+3. Input sampledata
   in data
   1) name of fishing spot
   2) phone number of the fishing area
@@ -30,4 +30,5 @@
   5) water depth
   6) mainly used bait
   7) additional information or photos
+
   ![image](https://user-images.githubusercontent.com/102274136/234825575-66f86d78-3be8-4f0f-b188-3158dc5f2338.png)
